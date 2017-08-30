@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: BackView_Data
+  m_EditorClassIdentifier: 
+  dataName: BackView
+  dragonBonesJSON: {fileID: 4900000, guid: 18e04e2c62cb8064abc869a492c16f3e, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 7935f4bd247c71f4f9697a74179e7e3e, type: 3}
+    texture: {fileID: 2800000, guid: be1ea2f9d806c654ba125d412410174a, type: 3}
+    material: {fileID: 2100000, guid: 9d30a17963d0b414496fc4028ed9ed43, type: 2}
+    uiMaterial: {fileID: 0}
